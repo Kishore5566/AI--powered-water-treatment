@@ -1,0 +1,6 @@
+{
+  "name": "AquaPulse AI - Water Treatment Monitoring & Optimization System",
+  "description": "Industrial-grade water treatment SCADA monitoring, AI anomaly detection, process optimization, and compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
